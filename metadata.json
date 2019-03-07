@@ -1,4 +1,6 @@
 {
     "description": "CSCS Computers",
-    "title": "CSCS"
+    "title": "CSCS",
+    "version": "0.1",
+    "logo": "img/Swiss_National_Supercomputing_Centre_logo.svg"
 }
